@@ -1,8 +1,8 @@
-id: "linux-luminarium"
-name: Linux Luminarium
+id: "ATNO-5256"
+name: ATNO-5256
 type: welcome
 award:
-  emoji: 🐧
+  emoji: 🤑
 modules:
 - id: "hello"
 - id: "paths"
