@@ -1,0 +1,28 @@
+name: Comprehending Commands
+allow_privileged: false
+
+challenges:
+- id: "cat"
+  name: "cat: not the pet, but the command!"
+- id: "cat-absolute"
+  name: "catting absolute paths"
+- id: "cat-chase"
+  name: "more catting practice"
+- id: "grep"
+  name: "grepping for a needle in a haystack"
+- id: "ls"
+  name: "listing files"
+- id: "touch"
+  name: "touching files"
+- id: "rm"
+  name: "removing files"
+- id: "ls-a"
+  name: "hidden files"
+- id: "filesystem-quest"
+  name: "An Epic Filesystem Quest"
+- id: "mkdir"
+  name: "making directories"
+- id: "find"
+  name: "finding files"
+- id: "ln-s"
+  name: "linking files"

@@ -1,0 +1,11 @@
+name: Untangling Users
+allow_privileged: false
+challenges:
+- id: "su"
+  name: "Becoming root with su"
+- id: "su-other"
+  name: "Other users with su"
+- id: "su-crack"
+  name: "Cracking passwords"
+- id: "sudo"
+  name: "Using sudo"

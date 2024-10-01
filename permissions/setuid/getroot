@@ -1,0 +1,4 @@
+#!/opt/pwn.college/bash
+
+fold -s <<< "SUCCESS! You have set the suid bit on this program, and it is running as root! Here is your shell..."
+exec /bin/bash

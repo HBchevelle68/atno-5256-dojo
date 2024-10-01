@@ -1,0 +1,21 @@
+name: File Globbing
+allow_privileged: false
+resources:
+  - type: markdown
+    name: "Further Reading"
+    content: |
+      - The [section on Shell Expansions](https://www.gnu.org/software/bash/manual/html_node/Shell-Expansions.html) from the Bash Reference Manual can be helpful.
+
+challenges:
+- id: "asterisk"
+  name: "Matching with *"
+- id: "question"
+  name: "Matching with ?"
+- id: "bracket"
+  name: "Matching with []"
+- id: "bracket-absolute"
+  name: "Matching paths with []"
+- id: "mixing"
+  name: "Mixing globs"
+- id: "unmatching"
+  name: "Exclusionary globbing"

@@ -1,0 +1,22 @@
+name: Processes and Jobs
+allow_privileged: false
+
+challenges:
+- id: "ps"
+  name: Listing Processes
+- id: "kill"
+  name: Killing Processes
+- id: "int"
+  name: Interrupting Processes
+- id: "suspend"
+  name: Suspending Processes
+- id: "resume"
+  name: Resuming Processes
+- id: "background"
+  name: Backgrounding Processes
+- id: "foreground"
+  name: Foregrounding Processes
+- id: "start-backgrounded"
+  name: Starting Backgrounded Processes
+- id: "exit-codes"
+  name: Process Exit Codes

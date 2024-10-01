@@ -1,0 +1,25 @@
+name: Shell Variables
+allow_privileged: false
+resources:
+- name: Resources
+  type: markdown
+  content: |
+    - The Linux Documentation Project has a section on [shell variables](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-5.html)
+
+challenges:
+- id: "echo"
+  name: "Printing Variables"
+- id: "setvar"
+  name: "Setting Variables"
+- id: "setvar-multi"
+  name: "Multi-word Variables"
+- id: "export"
+  name: "Exporting Variables"
+- id: "env"
+  name: "Printing Exported Variables"
+- id: "command-substitution"
+  name: "Storing Command Output"
+- id: "read"
+  name: "Reading Input"
+- id: "readfile"
+  name: "Reading Files"

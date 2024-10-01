@@ -1,0 +1,22 @@
+name: Pondering Paths
+allow_privileged: false
+
+challenges:
+- id: "root"
+  name: The Root
+- id: "absolute"
+  name: Program and absolute paths
+- id: "absolute-cwd"
+  name: Position thy self
+- id: "absolute-cwd-2"
+  name: "Position elsewhere"
+- id: "absolute-cwd-3"
+  name: "Position yet elsewhere"
+- id: "relative-naked"
+  name: "implicit relative paths, from /"
+- id: "relative-dot"
+  name: "explicit relative paths, from /"
+- id: "relative-dot-local"
+  name: "implicit relative path"
+- id: "home"
+  name: "home sweet home"

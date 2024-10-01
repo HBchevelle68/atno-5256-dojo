@@ -1,0 +1,18 @@
+id: "linux-luminarium"
+name: Linux Luminarium
+type: welcome
+award:
+  emoji: 🐧
+modules:
+- id: "hello"
+- id: "paths"
+- id: "commands"
+- id: "man"
+- id: "globbing"
+- id: "piping"
+- id: "variables"
+- id: "processes"
+- id: "permissions"
+- id: "users"
+- id: "chaining"
+- id: "path"

@@ -1,0 +1,25 @@
+name: Perceiving Permissions 
+allow_privileged: false
+resources:
+- name: Resources
+  type: markdown
+  content: |
+    - [Chmod Calculator](https://chmod-calculator.com/)
+
+challenges:
+- id: "chown"
+  name: "Changing File Ownership"
+- id: "chgrp"
+  name: "Groups and Files"
+- id: "chgrp-random"
+  name: "Fun With Groups Names"
+- id: "chmod-flag"
+  name: "Changing Permissions"
+- id: "execute"
+  name: "Executable Files"
+- id: "chmod"
+  name: "Permission Tweaking Practice"
+- id: "chmod-absolute"
+  name: "Permissions Setting Practice"
+- id: "setuid"
+  name: "The SUID Bit"

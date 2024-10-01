@@ -1,0 +1,23 @@
+name: Digesting Documentation
+allow_privileged: false
+resources:
+- name: Resources
+  type: markdown
+  content: |
+    - [Online repository of man pages](https://man7.org/linux/man-pages/)
+
+challenges:
+- id: "challenge-arg"
+  name: Learning From Documentation
+- id: "challenge-arg-arg"
+  name: Learning Complex Usage
+- id: "man"
+  name: Reading Manuals
+- id: "man-search"
+  name: Searching Manuals
+- id: "man-search-man"
+  name: Searching For Manuals
+- id: "help"
+  name: Helpful Programs
+- id: "builtins"
+  name: Help for Builtins

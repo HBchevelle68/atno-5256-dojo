@@ -1,0 +1,10 @@
+name: Chaining Commands
+challenges:
+  - id: semicolon
+    name: Chaining with Semicolons
+  - id: script
+    name: Your First Shell Script
+  - id: script-pipe
+    name: Redirecting Script Output
+  - id: execution
+    name: Executable Shell Scripts
