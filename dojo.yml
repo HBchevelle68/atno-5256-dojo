@@ -711,3 +711,40 @@ modules:
   - id: level-8-1
     name: level8.1
     description: Circumvent yan85's output sanitization with KASLR.
+- id: building-a-web-server
+  name: Building a Web Server
+  description:  Develop the skills needed to build a web server from scratch, starting with a simple program and progressing to handling multiple HTTP GET and POST requests.
+  challenges:
+  - id: level-1
+    name: level1
+    description: Program that exits
+  - id: level-2
+    name: level2
+    description: Program that creates a socket
+  - id: level-3
+    name: level3
+    description: Program that binds a socket
+  - id: level-4
+    name: level4
+    description: Program that listens on a socket
+  - id: level-5
+    name: level5
+    description: Program that accepts a connection
+  - id: level-6
+    name: level6
+    description: Program that statically responds to an HTTP request
+  - id: level-7
+    name: level7
+    description: Program that dynamically responds to an HTTP GET request
+  - id: level-8
+    name: level8
+    description: Program that dynamically responds to multiple HTTP GET requests
+  - id: level-9
+    name: level9
+    description: Multi-processed program that dynamically responds to multiple HTTP GET requests
+  - id: level-10
+    name: level10
+    description: Multi-processed program that dynamically responds to multiple HTTP POST requests
+  - id: level-11
+    name: level11
+    description: Multi-processed program that dynamically responds to multiple HTTP GET and POST requests
