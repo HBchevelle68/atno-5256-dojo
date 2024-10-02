@@ -91,3 +91,203 @@ modules:
   - id: level-14
     name: level14
     description: "Write and execute shellcode to read the flag, but this time you only get 6 bytes :)"
+- id: reverse-engineering
+  name: Reverse Engineering
+  description: ""
+  challenges:
+  - id: level-1-0
+    name: level1.0
+    description: Reverse engineer this challenge to find the correct license key.
+  - id: level-1-1
+    name: level1.1
+    description: Reverse engineer this challenge to find the correct license key.
+  - id: level-2-0
+    name: level2.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-2-1
+    name: level2.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-3-0
+    name: level3.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-3-1
+    name: level3.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-4-0
+    name: level4.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-4-1
+    name: level4.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-5-0
+    name: level5.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-5-1
+    name: level5.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-6-0
+    name: level6.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-6-1
+    name: level6.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-7-0
+    name: level7.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-7-1
+    name: level7.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-8-0
+    name: level8.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-8-1
+    name: level8.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key.
+  - id: level-9-0
+    name: level9.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key. This challenge allows you to patch 5 bytes in the binary.
+  - id: level-9-1
+    name: level9.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key. This challenge allows you to patch 5 bytes in the binary.
+  - id: level-10-0
+    name: level10.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key. This challenge allows you to patch 1 byte in the binary.
+  - id: level-10-1
+    name: level10.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key. This challenge allows you to patch 1 byte in the binary.
+  - id: level-11-0
+    name: level11.0
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key. This challenge allows you to patch 2 bytes in the binary, but performs an
+      integrity check afterwards.
+  - id: level-11-1
+    name: level11.1
+    description: Reverse engineer this challenge to find the correct license key, but your input will be modified somehow
+      before being compared to the correct key. This challenge allows you to patch 2 bytes in the binary, but performs an
+      integrity check afterwards.
+  - id: level-12-0
+    name: level12.0
+    description: |-
+      We're about to dive into reverse engineering obfuscated code!
+      To better prepare you for the journey ahead, this challenge is a very straightforward crackme, but using slightly different code, memory layout, and input format.
+      We will progressively obfuscate this in future levels, but this level should be a freebie!
+  - id: level-12-1
+    name: level12.1
+    description: |-
+      We're about to dive into reverse engineering obfuscated code!
+      To better prepare you for the journey ahead, this challenge is a very straightforward crackme, but using slightly different code, memory layout, and input format.
+      We will progressively obfuscate this in future levels, but this level should be a freebie!
+  - id: level-13-0
+    name: level13.0
+    description: |-
+      Let's dive into reverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      If you are clever, you won't need to reverse _too_ much VM code.
+  - id: level-13-1
+    name: level13.1
+    description: |-
+      Let's dive into reverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      If you are clever, you won't need to reverse _too_ much VM code.
+  - id: level-14-0
+    name: level14.0
+    description: |-
+      Let's dive into reverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      If you are clever, you won't need to reverse _too_ much VM code.
+  - id: level-14-1
+    name: level14.1
+    description: |-
+      Let's dive into reverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      If you are clever, you won't need to reverse _too_ much VM code.
+  - id: level-15-0
+    name: level15.0
+    description: |-
+      Let's dive into reverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      If you are clever, you won't need to reverse _too_ much VM code.
+  - id: level-15-1
+    name: level15.1
+    description: |-
+      Let's dive into reverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      If you are clever, you won't need to reverse _too_ much VM code.
+  - id: level-16-0
+    name: level16.0
+    description: |-
+      Let's continue deeper in reverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+  - id: level-16-1
+    name: level16.1
+    description: |-
+      Let's continue deeper inreverse engineering obfuscated code!
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+  - id: level-17-0
+    name: level17.0
+    description: "This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand\
+      \ how to get the flag!"
+  - id: level-17-1
+    name: level17.1
+    description: "This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand\
+      \ how to get the flag!"
+  - id: level-18-0
+    name: level18.0
+    description: "This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand\
+      \ how to get the flag!"
+  - id: level-18-1
+    name: level18.1
+    description: "This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand\
+      \ how to get the flag!"
+  - id: level-19-0
+    name: level19.0
+    description: |-
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      This is a full end-to-end obfuscated challenge, like you might see in real-world obfuscated code!
+  - id: level-19-1
+    name: level19.1
+    description: |-
+      This challenge is using VM-based obfuscation: reverse engineer the custom emulator and architecture to understand how to get the flag!
+      This is a full end-to-end obfuscated challenge, like you might see in real-world obfuscated code!
+  - id: level-20-0
+    name: level20.0
+    description: 'Reverse engineer this custom emulator and architecture to understand how to get the flag! '
+  - id: level-20-1
+    name: level20.1
+    description: 'Reverse engineer this custom emulator and architecture to understand how to get the flag! '
+  - id: level-21-0
+    name: level21.0
+    description: Reverse engineer this custom emulator and architecture, and write your own custom shellcode to get the flag.
+  - id: level-21-1
+    name: level21.1
+    description: Reverse engineer this custom emulator and architecture, and write your own custom shellcode to get the flag.
+  - id: level-22-0
+    name: level22.0
+    description: |-
+      Reverse engineer this custom emulator and architecture, and write your own custom shellcode to get the flag, with a twist.
+      This is the final boss.
+      Are you a true Yan-head?
+  - id: level-22-1
+    name: level22.1
+    description: |-
+      Reverse engineer this custom emulator and architecture, and write your own custom shellcode to get the flag, with a twist.
+      This is the final boss.
+      Are you a true Yan-head?
